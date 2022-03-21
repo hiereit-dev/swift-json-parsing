@@ -1,16 +1,16 @@
 # JSON-parsing
 
-##### 📝220308
+##### 📝220308 - 📁json
 [JSON Parsing solution-1]<br>
 swift에서 간단한 JSON Parsing<br>
 네이버 지역검색 api 사용 (https://developers.naver.com/docs/serviceapi/search/local/local.md#지역)
 
-##### 📝220310
+##### 📝220310 - 📁json
 [JSON Parsing solution-2]<br>
 swift에서 Codable 구조체를 생성하여 JSON Parsing<br>
 네이버 영화검색 api 사용 (https://developers.naver.com/docs/search/movie/)
 
-##### 📝220321
+##### 📝220321 - 📁json-table
 [JSON Parsing with TablView & Alamofire]<br>
 <table>
   <tr>
